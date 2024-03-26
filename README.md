@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Fala Galera :sunglasses:
 
 Meu Nome é André, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
