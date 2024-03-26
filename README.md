@@ -11,9 +11,9 @@ Meu Nome é André, sou um Programador Front End, atualmente estou aprendendo e 
 <br>
 Me siga nas Redes Sociais:
 <br>
-:point_right: <a href="https://www.instagram.com/andrebviriato/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+:point_right: <a href="https://www.instagram.com/andrebviriato/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <br>
-:point_right: <a href="https://www.facebook.com/andrebravo01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="" height="30" width="40" /></a>
+:point_right: <a href="https://www.facebook.com/andrebravo01/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="" height="30" width="40" /></a>
 <br>
 <br>
 
